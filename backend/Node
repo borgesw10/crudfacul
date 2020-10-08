@@ -1,0 +1,25 @@
+Node -> quem executa o javascript no lado do servidor
+e
+NPM -> node package maneger
+YARN -> node package manager
+
+Node, ele possui um gerenciador do projeto(package.json) 
+
+Express -> solução HTTP(web) para servidor node
+Servidor HTTP -> cheio de soluções http pra agilizar nossa produção
+Create 
+Read
+Update             De algo(venda)
+Delete             
+
+
+GET é um protocolo HTTP
+POST
+PUT
+...outros
+
+
+Requisição -> navegador faz por padrão GET
+Quem faz uma requisição é um cliente HTTP, no caso do navegador
+Então precisamos de um cliente HTTP para fazer requisição post
+

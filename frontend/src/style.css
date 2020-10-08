@@ -1,0 +1,20 @@
+body {
+    margin: 50px;
+    background-color: black;
+}
+
+h1, h2, label {
+    color: #FFF
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 0px 0px 0px
+}
+
+li {
+    margin-left: 10px
+}
